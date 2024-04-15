@@ -1,0 +1,14 @@
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\bin\Debug\net8.0\ObslugaPlikuJSON.exe
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\bin\Debug\net8.0\ObslugaPlikuJSON.deps.json
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\bin\Debug\net8.0\ObslugaPlikuJSON.runtimeconfig.json
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\bin\Debug\net8.0\ObslugaPlikuJSON.dll
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\bin\Debug\net8.0\ObslugaPlikuJSON.pdb
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.AssemblyInfoInputs.cache
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.AssemblyInfo.cs
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.csproj.CoreCompileInputs.cache
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.dll
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\refint\ObslugaPlikuJSON.dll
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.pdb
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ObslugaPlikuJSON.genruntimeconfig.cache
+C:\Users\ori\source\repos\ObslugaPlikuJSON\ObslugaPlikuJSON\obj\Debug\net8.0\ref\ObslugaPlikuJSON.dll
